@@ -1,0 +1,11 @@
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Maven
+log/
+target/
